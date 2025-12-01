@@ -1,4 +1,4 @@
-// setup_dapp.js ONCODE
+// setup_dapp.js HIP3ONE
 // Example of setting up a frontend DApp with wallet integration for Solana blockchain
 
 import { Connection, PublicKey, clusterApiUrl, LAMPORTS_PER_SOL } from '@solana/web3.js';
