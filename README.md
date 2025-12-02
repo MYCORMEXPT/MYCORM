@@ -24,6 +24,8 @@ AI agents can:
 
 In short — **agents no longer request access; they earn it through payment.**
 
+ADDY: 4mARrG3ngSaC4uN3mb1UEPedhCJU62BUtzZ35NFZpump
+
 ---
 
 ## 🧠 Core Architecture
